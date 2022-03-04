@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "LIZA_SESSION": {
-            "description": "Type here yours Asena Session.",
+            "description": "LizaMwol:::eyJjbGllbnRJRCI6IjdXeXo3UGJSSk9JR1JQWlFpRk41amc9PSIsInNlcnZlclRva2VuIjoiMUBobElldlFWNjdiWmlCOUEvcFI2M1AvM0gwd2hEMGhyTWxIdmZ4RHlCbTA5MlFZSjh1STFKaGx1M1ZibkM3THNPQXd2R0RCbjhNM0ZCUXc9PSIsImNsaWVudFRva2VuIjoibFFMbXlpZ3VHMmM3QjA0S3l5a1JCT0tDVnNDYlMxekRKUkIreUtQb1hxYz0iLCJlbmNLZXkiOiIvT2ZndlFTUkR0YUxzYWt0Q1JBZWtGUjRNOFFlbzVlSTZBSVV6NDlzak13PSIsIm1hY0tleSI6Imw4em9WS0J4a0t4UWlTSmd6Ty8zWTJxaHB5SjdwRFZhSEE1UDVZL1VSN3c9In0=",
             "required": true
         },
         "SUDO": {
